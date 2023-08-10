@@ -14,14 +14,14 @@ This repository contains a Python script for web scraping product information fr
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
+
 2.Navigate to the project directory:
-   
-      ```bash
-   cd your-repo
+    ```bash
+    `cd your-repo`
 
 3. Run the script:
    ```bash
-     python scrape.py
+   python scrape.py
   Follow the prompts to enter the URL of the product page you want to scrape.
 
 ## Script Details
