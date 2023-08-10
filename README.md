@@ -30,11 +30,11 @@ The script (`scrape. py`) performs the following tasks:
 Note: Please use this script responsibly and adhere to the terms of use of the website you
 are scraping. Be aware that websites may have restrictions on scraping activities.
 
-# Example Output
+## Example Output
     ```bash
       Enter the url: https://flipkart.com/product-page
       Name of the product: Example Product
       Ratings: 4.5*
       Price: $19.99
-# Contributing
+## Contributing
   Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
