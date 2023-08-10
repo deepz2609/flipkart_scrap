@@ -21,7 +21,7 @@ This repository contains a Python script for web scraping product information fr
   Follow the prompts to enter the URL of the product page you want to scrape.
 
 ## Script Details
-The script (`scrape. py`) performs the following tasks:
+The script (`flipcart_scrapper.py`) performs the following tasks:
   • Accepts a Flipkart product URL as input from the user.
   • Fetches the HTML content of the provided URL using the `requests` library.
   • Parses the HTML content with `BeautifulSoup`.
